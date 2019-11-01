@@ -1,4 +1,3 @@
 # hello-world
-Just for fun
 
-This is a branch for the master
+This is a branch for the master. We will create a pull request for it.
